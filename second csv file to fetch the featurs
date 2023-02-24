@@ -1,0 +1,13 @@
+Core Area (in2)	
+Boundary condition 1=fixed, 0=pin
+# of stories	
+# of Bays	
+Storey height (in)	
+Bay Width (in)	
+Dead Load (kip/in)	
+Configuration	
+Leaning Column Load kip	
+Ag Beam in2	
+Ix Beam in4	
+Ag Column in2	
+Ix Column in4	
